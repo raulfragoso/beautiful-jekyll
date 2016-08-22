@@ -32,7 +32,7 @@ Gritos de euforia ecoavam nas paredes do meu escritório ! Eu finalmente havia c
 
 Passei o resto do dia experimentando com ajustes nos tempos das gotas e também do disparo do flash. Brinquei também com a posição e potência do flash, além de usar diferentes materiais para rebater a luz e outras cores para o líquido. É incrível como as formas das gotas são sempre distintas, são quase como flocos de neve, nunca dá para obter uma igual a outra. E acho que é isso o que me atrai tanto para esse tipo de fotografia, há uma infinidade de variações que podem ser obtidas pelas simples formas de uma ou mais gotas de água colidindo. Abaixo segue algumas fotos da mesma sessão daquele dia:
 
-<div style="position: relative; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;" id="flickrembed"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="_includes/gallery1.html" scrolling="no" frameborder="0" allowFullScreen="true"></iframe></div>
+{% include gallery1.html %}
 
 
 Fiquei muito contente com o resultado, mas sempre há espaço para melhorar. O próximo passo será um upgrade na iluminação com flashes adicionais e também fazer um fundo fosco para iluminar o fundo das fotos. Pretendo também experimentar com diferentes reagentes para os líquidos, para obter colunas e formas mais interessantes. Quero experimentar com alturas diferentes entre a válvula e o recepiente coletor, a fim de obter colunas mais altas. Depois já penso também em obter mais uma válvula para experimentar colisões duplas. As possibilidades são enormes !
