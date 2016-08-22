@@ -14,7 +14,7 @@ baseurl: "/waterdrops"
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Water Drops
+title: Raul Fragoso
 
 # Short description of your site
 description: Meu blog sobre fotografia de water drops.
@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 
 # List of links in the navigation bar
 navbar-links:
-  Home: ""
+  Home: "/waterdrops"
   Útil:
     - Meu Flickr: "https://www.flickr.com/photos/raul-fragoso/"
     - Forum CameraAxe: "http://www.dreamingrobots.com/forums/viewforum.php?f=8"
