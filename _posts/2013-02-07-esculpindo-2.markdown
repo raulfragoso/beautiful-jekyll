@@ -82,7 +82,7 @@ As cores foram obtidas através do mesmo método utilizado anteriormente, rebate
 *   foi difícil conseguir compensar o tempo de atraso do obturador (shutter lag) da câmera, pois ele parece variar entre cada foto;
 *   a iluminação está ruim, com muitas sombras nos limites das gotas e também o fundo está muito sem graça;
 
-** Lição 2: usar a ferramenta certa para o trabalho ajuda bastante, mas encontrar a ferramenta certa também exige experimentar com o que se tem. Mas o mais importante é o que se aprende no meio do caminho. **
+**Lição 2: usar a ferramenta certa para o trabalho ajuda bastante, mas encontrar a ferramenta certa também exige experimentar com o que se tem. Mas o mais importante é o que se aprende no meio do caminho.**
 
 Devo admitir que me rendi e já decidi investir em uma válvula solenóide e mais flashes. Meu maior problema será adaptar esse conjunto ao Triggertrap, pois ele possui apenas uma porta auxiliar para um novo sensor e eu terei que bolar um circuito eletrônico para controlar a válvula e liga-lo à entrada auxiliar do Triggertrap. Outro problema é que o Triggertrap possui apenas uma saída para o disparo da câmera/flash, e como pretendo utilizar pelo menos dois flashes, terei que achar uma solução para isso.
 
