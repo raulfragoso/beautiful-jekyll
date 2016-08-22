@@ -5,7 +5,7 @@ date:   2013-02-07 13:50:44 -0300
 categories: waterdrops
 ---
 
-No meu [artigo anterior](https://web.archive.org/web/20140323202152/http://raulfragoso.com/blog/esculpindo-agua "Esculpindo a água – parte 1"), falei da minha paixão por water drops, do magnífico trabalho feito pelo fotógrafo alemão Markus Reugels e também apresentei o resultado da minha primeira experiência com water drops há 3 anos. Neste artigo tentarei explicar um pouco mais sobre o que aprendi em minhas pesquisas e também das minhas experiências mais recentes.
+No meu [artigo anterior](esculpindo-1.html "Esculpindo a água – parte 1"), falei da minha paixão por water drops, do magnífico trabalho feito pelo fotógrafo alemão Markus Reugels e também apresentei o resultado da minha primeira experiência com water drops há 3 anos. Neste artigo tentarei explicar um pouco mais sobre o que aprendi em minhas pesquisas e também das minhas experiências mais recentes.
 
 ### Como os profissionais fazem
 
