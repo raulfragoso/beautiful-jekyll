@@ -40,7 +40,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Raul Fragoso
-  email: "raulfragoso@gmail.com"
+#  email: "raulfragoso@gmail.com"
   facebook: raulmfragoso
   github: raulfragoso
   twitter: raulfragoso
@@ -59,7 +59,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "deanattali.com/beautiful-jekyll"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
