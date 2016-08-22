@@ -32,24 +32,12 @@ Gritos de euforia ecoavam nas paredes do meu escritório ! Eu finalmente havia c
 
 Passei o resto do dia experimentando com ajustes nos tempos das gotas e também do disparo do flash. Brinquei também com a posição e potência do flash, além de usar diferentes materiais para rebater a luz e outras cores para o líquido. É incrível como as formas das gotas são sempre distintas, são quase como flocos de neve, nunca dá para obter uma igual a outra. E acho que é isso o que me atrai tanto para esse tipo de fotografia, há uma infinidade de variações que podem ser obtidas pelas simples formas de uma ou mais gotas de água colidindo. Abaixo segue algumas fotos da mesma sessão daquele dia:
 
-<div>
-<style type="text/css">
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:600px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=m&layout=x&source=user_tag&user=17886885@N00&tag=cameraaxefirstsession"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
-</div>
+<div style="position: relative; padding-bottom: 60%; overflow: auto; -webkit-overflow-scrolling:touch;" id="flickrembed"><iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="_includes/gallery1.html" scrolling="no" frameborder="0" allowFullScreen="true"></iframe></div>
+
 
 Fiquei muito contente com o resultado, mas sempre há espaço para melhorar. O próximo passo será um upgrade na iluminação com flashes adicionais e também fazer um fundo fosco para iluminar o fundo das fotos. Pretendo também experimentar com diferentes reagentes para os líquidos, para obter colunas e formas mais interessantes. Quero experimentar com alturas diferentes entre a válvula e o recepiente coletor, a fim de obter colunas mais altas. Depois já penso também em obter mais uma válvula para experimentar colisões duplas. As possibilidades são enormes !
 
 O bacana é que até as crianças podem brincar. Ontem meus dois filhos (gêmeos, de 9 anos) me ajudaram na escolha das cores e passamos um bocado de tempo nos divertindo com formas e cores diferentes. Segue abaixo o nosso resultado:
 
-<div>
-<style type="text/css">
-.flickr_badge_image {margin:0px;display:inline;}
-.flickr_badge_image img {border: 1px solid #666666 !important; padding:1px; margin:2px;}
-#flickr_badge_wrapper {width:600px;text-align:left}
-</style><div id="flickr_badge_wrapper"><script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=10&display=latest&size=m&layout=x&source=user_tag&user=17886885@N00&tag=cameraaxesecondsession"></script><center><small>Created with <a href="http://www.flickrbadge.com">flickr badge</a>.</small></center></div>
-</div>
 
 Postarei mais outro artigo em breve, assim que os flashes chegarem e eu tiver melhorado a iluminação.
