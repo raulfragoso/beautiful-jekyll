@@ -100,8 +100,3 @@ exclude:
   - CNAME
   - LICENSE
   - README.md
-
-flickr:
-  screen_name: raulfragoso
-  api_key: 2a55b240b7f107f7ae57c691f0a394e9
-  api_secret: 75e29aaf689756eb
