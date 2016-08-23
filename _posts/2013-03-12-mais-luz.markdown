@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Mais luz e uma iluminação melhor"
+date:   2013-03-13 09:22:37 -0300
+categories: waterdrops
+---
+
+Nesta semana, eu consegui melhorar a iluminação das minhas fotos de water drops e também experimentei com cores diferentes para o plano de fundo.
+
+A primeira melhoria veio com uma placa de poliestireno translúcida para utilizar no fundo. Essa placa possui uma boa difusão de luz, iluminando o fundo de maneira uniforme e transmite luz suficiente para congelar os splashes das gotas. A placa foi comprada no Mercado Livre, [link aqui](http://produto.mercadolivre.com.br/MLB-469603744-chapa-ps-cristal-fum-branco-leitoso-50x50cm-3mm-acrilico-_JM).
+
+O segundo upgrade foi a adição de mais flashes. Finalmente recebi meus dois flashes Yongnuo modelo YN-560EX II. Pesquisei bastante antes de comprar, pois não queria gastar muito, mas também não queria comprar algo que não fosse me atender plenamente. Depois de testar, confirmei que este modelo da Yongnuo, apesar de ser um flash manual (isto é, todo o controle da potência do flash deve ser feito manualmente), é uma excelente escolha para fotografias em ambientes controlados, como é o caso dos water drops. Outra vantagem desse flash é que ele pode ter a potência configurada em até 1/128 da potência total, produzindo um pulso de luz de duração bastante curta, e assim congelando melhor a cena e produzindo splashes ainda mais nítidos. A construção do flash também parece ser bem robusta, muito parecida com a dos flashes Canon. Outra vantagem é a porta PC-Sync, que pode ser usada para conectar cabos entre o controlador (o Camera Axe, no meu caso) e o flash. Mas a principal vantagem deste flash é o preço: US$ 71.00 por unidade. É praticamente 1/5 do valor de um Canon 580-EX, de mesma potência. Abaixo segue duas fotos dos flashes e a placa de poliestireno ao fundo:
+
+![](https://lh4.googleusercontent.com/-PQ0fBQoz_Po/UUKuIy7qBVI/AAAAAAAAEQA/VvEp03Ypn0M/s640/IMG_8518.jpg)
+
+![](https://lh5.googleusercontent.com/-27ZbvpAX7Is/UUKt7c7RHdI/AAAAAAAAEQA/x7siKG3TwP4/s640/IMG_8519.jpg)
+
+Como os flashes são idênticos, eu resolvi utilizar um pequeno cabo do tipo “stereo split” (que geralmente serve para duplicar o áudio estéreo em duas saídas a partir de uma entrada) para reproduzir o &nbsp;mesmo sinal de disparo a partir de uma única saída do Camera Axe. As duas saídas foram conectadas a dois cabos PC Sync com plugs de 3.5mm e depois conectados na entrada PC-Sync dos dois flashes. A ligação ficou assim:
+
+![](https://lh6.googleusercontent.com/-k6RUEq1HMCc/UUKuLn7t_eI/AAAAAAAAEQA/7Trem60_aW0/s640/IMG_8521.jpg)
+
+Com isso, basta usar uma única saída do Camera Axe para disparar ambos os flashes. Em breve eu pretendo fazer testes com um disparador sem fio, também da Yongnuo (modelo RF-603). Além de evitar a bagunça com os cabos, também vai me permitir utilizar uma quantidade maior de flashes sem ter que ficar usando cabos duplicadores.
+
+A iluminação agora ficou muito melhor, abrindo novas oportunidades criativas. Ontem eu experimentei a utilização de alguns filtros de gel colorido com os flashes por trás da placa de poliestireno, criando alguns gradientes bem interessantes no plano de fundo. Confiram abaixo:
+
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/raul-fragoso/albums/72157632995642085" title="Even Higher Columns"><img src="https://c6.staticflickr.com/9/8102/8554951173_459e015bac.jpg" width="333" height="500" alt="Even Higher Columns"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Por enquanto é só. Vou viajar a trabalho na próxima semana e ficarei 1 mês longe dos water drops. Postarei mais coisas aqui quando voltar ![:-)](./Raul Fragoso _ Meu blog pessoal_files/icon_smile.gif)
