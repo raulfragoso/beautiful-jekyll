@@ -19,6 +19,6 @@ Foi então que a idéia me ocorreu: se eu conseguisse fazer com que uma segunda 
 
 Daí foi só fazer mais alguns ajustes no tempo de liberação da terceira gota e o atraso para o flash, onde pequenas variações produzem imagens bem diferentes. Veja os resultados abaixo:
 
-<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/raul-fragoso/albums/72157632960523142" title="First High Column Waterdrops"><img src="https://c5.staticflickr.com/9/8389/8540892668_c60f995b8d_c.jpg" width="534" height="800" alt="First High Column Waterdrops"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" data-header="true" data-footer="true"  href="https://www.flickr.com/photos/raul-fragoso/albums/72157632960523142" title="First High Column Waterdrops"><img src="https://c5.staticflickr.com/9/8389/8540892668_c60f995b8d_c.jpg" width="333" height="500" alt="First High Column Waterdrops"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 O próximo desafio será modificar o software do Camera Axe para poder liberar 4 gotas ao invés de apenas 3, e assim criar formas mais diferentes. Ainda estou esperando a chegada dos novos flashes, e também de uma placa de acrílico fosco que comprei para iluminar o fundo. Assim que tiver mais novas fotos eu publicarei aqui. Até a próxima.
