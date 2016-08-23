@@ -28,7 +28,7 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Útil:
+  Links:
     - Meu Flickr: "https://www.flickr.com/photos/raul-fragoso/"
     - Forum CameraAxe: "http://www.dreamingrobots.com/forums/viewforum.php?f=8"
 #    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
